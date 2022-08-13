@@ -1,5 +1,5 @@
 const mongoose = require(`mongoose`)
-const dbUri = "mongodb+srv://billy:discord@cluster0.qsuoa.mongodb.net/discord?retryWrites=true&w=majority"
+const dbUri = "REDACTED"
 const schema = mongoose.Schema
 const servers = require("./schema.js")
 let setting_json = {
